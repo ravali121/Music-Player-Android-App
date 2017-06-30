@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Music Playlist "</string>
+    <string name="newplaylist_btn">Create New Playlist</string>
+    <string name="playlistname">Playlist Name:</string>
+</resources>
